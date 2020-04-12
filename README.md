@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/nillsf1/Space%20Game%20-%20web%20-%20workflow/_apis/build/status/NillsF.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/nillsf1/Space%20Game%20-%20web%20-%20workflow/_build/latest?definitionId=14&branchName=master)
+[![Build Status](https://dev.azure.com/nillsf1/Space%20Game%20-%20web%20-%20workflow/_apis/build/status/NillsF.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/nillsf1/Space%20Game%20-%20web%20-%20workflow/_build/latest?definitionId=14&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NillsF_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=NillsF_mslearn-tailspin-spacegame-web)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
