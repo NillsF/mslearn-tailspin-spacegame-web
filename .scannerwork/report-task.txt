@@ -1,0 +1,7 @@
+organization=space-game-web-33nf
+projectKey=NillsF_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6674
+dashboardUrl=https://sonarcloud.io/dashboard?id=NillsF_mslearn-tailspin-spacegame-web
+ceTaskId=AXFvOV9R7D7Ps5goRFfT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFvOV9R7D7Ps5goRFfT
